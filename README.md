@@ -81,7 +81,7 @@ This project was built to practice:
 
 ## 👩‍💻 Author
 
-**Pallavi**
+**Pallavi Sarovar**
 
 ---
 
