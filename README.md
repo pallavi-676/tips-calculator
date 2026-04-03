@@ -83,8 +83,3 @@ This project was built to practice:
 
 **Pallavi Sarovar**
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to fork or improve it!
